@@ -5,10 +5,10 @@ import numpy as np
 import pygame
 import pygame as pg
 
-from CSproject.code.ButtonClass import Button
+from ButtonClass import Button
 from PlayerClass import ControllerPlayer, KeyboardPlayer
-from CSproject.code.bezgenerator import generate_bez
-from CSproject.code.ScoreManager import ScoreManager
+from bezgenerator import generate_bez
+from ScoreManager import ScoreManager
 
 clock = pg.time.Clock()
 

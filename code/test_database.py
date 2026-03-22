@@ -1,4 +1,4 @@
-from CSproject.code.ScoreManager import ScoreManager
+from ScoreManager import ScoreManager
 
 import pytest
 

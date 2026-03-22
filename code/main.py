@@ -1,6 +1,6 @@
 import pygame as pg
 
-from CSproject.code.GameClass import Game
+from GameClass import Game
 
 '''In this file I Instantiate the game
 object, initialise pygame joystick , 
